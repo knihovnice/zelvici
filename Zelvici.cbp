@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Zelvici" />
+		<Option pch_mode="0" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="default">
+				<Option output="output\Zelvici.exe" prefix_auto="0" extension_auto="0" />
+				<Option working_dir="output\." />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option parameters="-w" />
+				<Option projectResourceIncludeDirsRelation="1" />
+				<Compiler>
+					<Add option="-fexpensive-optimizations" />
+					<Add option="-Os" />
+					<Add option="-O3" />
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<VirtualTargets>
+			<Add alias="All" targets="default;" />
+		</VirtualTargets>
+		<Compiler>
+			<Add option="-march=i686" />
+			<Add option="-O3" />
+			<Add option="-W" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL" />
+			<Add library="SDL_mixer" />
+		</Linker>
+		<Unit filename="Base.cpp" />
+		<Unit filename="Base.h" />
+		<Unit filename="Butterfly.cpp" />
+		<Unit filename="Butterfly.h" />
+		<Unit filename="Camera.cpp" />
+		<Unit filename="Camera.h" />
+		<Unit filename="Common.cpp" />
+		<Unit filename="Common.h" />
+		<Unit filename="Config.cpp" />
+		<Unit filename="Config.h" />
+		<Unit filename="Draw.cpp" />
+		<Unit filename="Draw.h" />
+		<Unit filename="Enemy.cpp" />
+		<Unit filename="Enemy.h" />
+		<Unit filename="Engine.cpp" />
+		<Unit filename="Engine.h" />
+		<Unit filename="Environment.cpp" />
+		<Unit filename="Environment.h" />
+		<Unit filename="Font.cpp" />
+		<Unit filename="Font.h" />
+		<Unit filename="FontFactory.cpp" />
+		<Unit filename="FontFactory.h" />
+		<Unit filename="Gravity.cpp" />
+		<Unit filename="Gravity.h" />
+		<Unit filename="Item.cpp" />
+		<Unit filename="Item.h" />
+		<Unit filename="Localizer.cpp" />
+		<Unit filename="Localizer.h">
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="Main.cpp" />
+		<Unit filename="Map.cpp" />
+		<Unit filename="Map.h" />
+		<Unit filename="Menu.cpp" />
+		<Unit filename="Menu.h" />
+		<Unit filename="Object.cpp" />
+		<Unit filename="Object.h" />
+		<Unit filename="Objects.cpp" />
+		<Unit filename="Objects.h" />
+		<Unit filename="Particles.cpp" />
+		<Unit filename="Particles.h" />
+		<Unit filename="SDLHeaders.h" />
+		<Unit filename="ScoreTable.cpp" />
+		<Unit filename="ScoreTable.h" />
+		<Unit filename="Screen.cpp" />
+		<Unit filename="Screen.h" />
+		<Unit filename="SlideShow.cpp" />
+		<Unit filename="SlideShow.h" />
+		<Unit filename="Sound.cpp" />
+		<Unit filename="Sound.h" />
+		<Unit filename="Sprite.cpp" />
+		<Unit filename="Sprite.h" />
+		<Unit filename="SpriteText.cpp" />
+		<Unit filename="SpriteText.h" />
+		<Unit filename="Structures.h" />
+		<Unit filename="TextureManager.cpp" />
+		<Unit filename="TextureManager.h" />
+		<Unit filename="Timer.cpp" />
+		<Unit filename="Timer.h" />
+		<Unit filename="TimerFactory.cpp" />
+		<Unit filename="TimerFactory.h" />
+		<Unit filename="Timers.cpp" />
+		<Unit filename="Timers.h" />
+		<Unit filename="Zelvik.cpp" />
+		<Unit filename="Zelvik.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

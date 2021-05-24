@@ -1,0 +1,2491 @@
+# depslib dependency file v1.0
+1133007604 c:\developing\zelvici\src\draw.cpp
+	"Global.h"
+	"SDLHeaders.h"
+	"Draw.h"
+	"Zelvik.h"
+	"Struktury.h"
+	"Objekty.h"
+	"Particles.h"
+	<windows.h>
+
+1133657120 >
+
+1133641716 c:\developing\zelvici\src\global.h
+	"SDLHeaders.h"
+	"Struktury.h"
+	"Objekty.h"
+	"Zelvik.h"
+	"Sound.h"
+
+1133641614 
+
+1133636250 c:\developing\zelvici\src\sdlheaders.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+
+1133636250 ixer.h>
+
+1132951986 c:\developing\zelvici\src\struktury.h
+
+1133474270 c:\developing\zelvici\src\objekty.h
+	"SDLHeaders.h"
+	"Base.h"
+	"Enums.h"
+	"Gravity.h"
+
+1133641206 "
+
+1132951986 c:\developing\zelvici\src\base.h
+	"SDLHeaders.h"
+
+1132951986 s.h"
+
+1133652522 c:\developing\zelvici\src\zelvik.h
+	"Base.h"
+	"SDLHeaders.h"
+	"Gravity.h"
+	"Enums.h"
+	"Sound.h"
+
+1133636494 c:\developing\zelvici\src\gravity.h
+
+1132951986 c:\developing\zelvici\src\enums.h
+
+1132951986 c:\developing\zelvici\src\draw.h
+
+1132959174 c:\developing\zelvici\src\particles.h
+	"SDLHeaders.h"
+
+1133656164 c:\developing\zelvici\src\funkce.cpp
+	"Funkce.h"
+	"Particles.h"
+	"Struktury.h"
+	"Mapa.h"
+	"Global.h"
+	<vector>
+	"FileSys.h"
+
+1133534526 c:\developing\zelvici\src\funkce.h
+	"Zelvik.h"
+	"Struktury.h"
+	"Objekty.h"
+
+1132951986 c:\developing\zelvici\src\mapa.h
+
+1132957116 c:\developing\zelvici\src\gravity.cpp
+	"Gravity.h"
+
+1133656538 c:\developing\zelvici\src\main.cpp
+	<cstdlib>
+	"SDLHeaders.h"
+	"Base.h"
+	"Zelvik.h"
+	"Timer.h"
+	"Draw.h"
+	"Mapa.h"
+	"Struktury.h"
+	"Funkce.h"
+	"Particles.h"
+	"Objekty.h"
+	"SDL.h"
+	"Global.h"
+
+1132951986 c:\developing\zelvici\src\timer.h
+
+1132951986 c:\developing\zelvici\src\sdl.h
+	"SDLHeaders.h"
+
+1133656988 c:\developing\zelvici\src\mapa.cpp
+	<cstdio>
+	<cstring>
+	"SDLHeaders.h"
+	"SDL.h"
+	"Struktury.h"
+	"Mapa.h"
+	"Base.h"
+	"Objekty.h"
+	"Global.h"
+
+1132951986 c:\developing\zelvici\src\objects.cpp
+	"SDLHeaders.h"
+	"Base.h"
+	"Objekty.h"
+	"Enums.h"
+	"Global.h"
+
+1132959228 c:\developing\zelvici\src\particles.cpp
+	"Particles.h"
+	"Timer.h"
+	"SDLHeaders.h"
+	"SDL.h"
+	"Global.h"
+	<cstdlib>
+	<cmath>
+	<vector>
+
+1133657120 c:\developing\zelvici\src\sdl.cpp
+	"SDLHeaders.h"
+	"Global.h"
+	<cstdlib>
+	<windows.h>
+
+1132951986 c:\developing\zelvici\src\timer.cpp
+	"SDLHeaders.h"
+	"Timer.h"
+
+1133656608 c:\developing\zelvici\src\zelvik.cpp
+	"SDLHeaders.h"
+	"Base.h"
+	"Zelvik.h"
+	"Gravity.h"
+	"Global.h"
+
+1133641614 c:\developing\zelvici\src\global.cpp
+	"Global.h"
+
+1133654618 c:\developing\zelvici\src\sound.h
+	"SDLHeaders.h"
+	<vector>
+
+1133564436 c:\developing\zelvici\src\filesys.h
+	<vector>
+
+1133657066 c:\developing\zelvici\src\sound.cpp
+	"SDLHeaders.h"
+	"Sound.h"
+
+1133641206 c:\developing\zelvici\src\filesys.cpp
+	"FileSys.h"
+
+1133007604 /windows/C/dev/Zelvici/Src/Draw.cpp
+	"Global.h"
+	"SDLHeaders.h"
+	"Draw.h"
+	"Zelvik.h"
+	"Struktury.h"
+	"Objekty.h"
+	"Particles.h"
+	<windows.h>
+
+1133641716 /windows/C/dev/Zelvici/Src/Global.h
+	"SDLHeaders.h"
+	"Struktury.h"
+	"Objekty.h"
+	"Zelvik.h"
+	"Sound.h"
+
+1133636250 /windows/C/dev/Zelvici/Src/SDLHeaders.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+
+1132951986 /windows/C/dev/Zelvici/Src/Struktury.h
+
+1133474270 /windows/C/dev/Zelvici/Src/Objekty.h
+	"SDLHeaders.h"
+	"Base.h"
+	"Enums.h"
+	"Gravity.h"
+
+1132951986 /windows/C/dev/Zelvici/Src/Base.h
+	"SDLHeaders.h"
+
+1132951986 /windows/C/dev/Zelvici/Src/Enums.h
+
+1133636494 /windows/C/dev/Zelvici/Src/Gravity.h
+
+1133652522 /windows/C/dev/Zelvici/Src/Zelvik.h
+	"Base.h"
+	"SDLHeaders.h"
+	"Gravity.h"
+	"Enums.h"
+	"Sound.h"
+
+1133654618 /windows/C/dev/Zelvici/Src/Sound.h
+	"SDLHeaders.h"
+	<vector>
+
+1132951986 /windows/C/dev/Zelvici/Src/Draw.h
+
+1132959174 /windows/C/dev/Zelvici/Src/Particles.h
+	"SDLHeaders.h"
+
+1133641206 /windows/C/dev/Zelvici/Src/FileSys.cpp
+	"FileSys.h"
+
+1133564436 /windows/C/dev/Zelvici/Src/FileSys.h
+	<vector>
+
+1133656164 /windows/C/dev/Zelvici/Src/Funkce.cpp
+	"Funkce.h"
+	"Particles.h"
+	"Struktury.h"
+	"Mapa.h"
+	"Global.h"
+	<vector>
+	"FileSys.h"
+
+1133534526 /windows/C/dev/Zelvici/Src/Funkce.h
+	"Zelvik.h"
+	"Struktury.h"
+	"Objekty.h"
+
+1132951986 /windows/C/dev/Zelvici/Src/Mapa.h
+
+1133641614 /windows/C/dev/Zelvici/Src/Global.cpp
+	"Global.h"
+
+1132957116 /windows/C/dev/Zelvici/Src/Gravity.cpp
+	"Gravity.h"
+
+1133656538 /windows/C/dev/Zelvici/Src/Main.cpp
+	<cstdlib>
+	"SDLHeaders.h"
+	"Base.h"
+	"Zelvik.h"
+	"Timer.h"
+	"Draw.h"
+	"Mapa.h"
+	"Struktury.h"
+	"Funkce.h"
+	"Particles.h"
+	"Objekty.h"
+	"SDL.h"
+	"Global.h"
+
+1132951986 /windows/C/dev/Zelvici/Src/Timer.h
+
+1132951986 /windows/C/dev/Zelvici/Src/SDL.h
+	"SDLHeaders.h"
+
+1133656988 /windows/C/dev/Zelvici/Src/Mapa.cpp
+	<cstdio>
+	<cstring>
+	"SDLHeaders.h"
+	"SDL.h"
+	"Struktury.h"
+	"Mapa.h"
+	"Base.h"
+	"Objekty.h"
+	"Global.h"
+
+1132951986 /windows/C/dev/Zelvici/Src/Objects.cpp
+	"SDLHeaders.h"
+	"Base.h"
+	"Objekty.h"
+	"Enums.h"
+	"Global.h"
+
+1132959228 /windows/C/dev/Zelvici/Src/Particles.cpp
+	"Particles.h"
+	"Timer.h"
+	"SDLHeaders.h"
+	"SDL.h"
+	"Global.h"
+	<cstdlib>
+	<cmath>
+	<vector>
+
+1133657066 /windows/C/dev/Zelvici/Src/Sound.cpp
+	"SDLHeaders.h"
+	"Sound.h"
+
+1132951986 /windows/C/dev/Zelvici/Src/Timer.cpp
+	"SDLHeaders.h"
+	"Timer.h"
+
+1133656608 /windows/C/dev/Zelvici/Src/Zelvik.cpp
+	"SDLHeaders.h"
+	"Base.h"
+	"Zelvik.h"
+	"Gravity.h"
+	"Global.h"
+
+1133657120 /windows/C/dev/Zelvici/Src/SDL.cpp
+	"SDLHeaders.h"
+	"Global.h"
+	<cstdlib>
+	<windows.h>
+
+1147414716 c:\dev\zelvici\src\draw.cpp
+	"Draw.h"
+
+1141334632 c:\dev\zelvici\src\global.h
+
+1147414996 c:\dev\zelvici\src\sdlheaders.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+
+1141298308 c:\dev\zelvici\src\struktury.h
+
+1147414982 c:\dev\zelvici\src\objekty.h
+	"SDLHeaders.h"
+	"Base.h"
+	"Gravity.h"
+	"Timer.h"
+	"Sound.h"
+	"Camera.h"
+	"Screen.h"
+	"Zelvik.h"
+	<cmath>
+
+1147414878 c:\dev\zelvici\src\base.h
+	"SDLHeaders.h"
+
+1141299224 c:\dev\zelvici\src\enums.h
+
+1147414942 c:\dev\zelvici\src\gravity.h
+
+1147415190 c:\dev\zelvici\src\zelvik.h
+	"Base.h"
+	"Timer.h"
+	"Sound.h"
+	"Gravity.h"
+	"Funkce.h"
+
+1147415026 c:\dev\zelvici\src\sound.h
+	"SDLHeaders.h"
+	<vector>
+
+1147414914 c:\dev\zelvici\src\draw.h
+	"SDLHeaders.h"
+	"Camera.h"
+	"Mapa.h"
+	"Zelvik.h"
+	"Screen.h"
+	"Font.h"
+	"Surfaces.h"
+	"Sprites.h"
+	"Particles.h"
+	"GameKeeper.h"
+	"Menu.h"
+
+1147414990 c:\dev\zelvici\src\particles.h
+	"Objekty.h"
+	"SDLHeaders.h"
+	"Timer.h"
+	"TextureManager.h"
+	"Camera.h"
+	<cstdlib>
+	<cmath>
+
+1147414722 c:\dev\zelvici\src\filesys.cpp
+	"FileSys.h"
+
+1147414920 c:\dev\zelvici\src\filesys.h
+	<vector>
+
+1147414740 c:\dev\zelvici\src\funkce.cpp
+	"Funkce.h"
+
+1147414928 c:\dev\zelvici\src\funkce.h
+	"SDLHeaders.h"
+	<cstdlib>
+
+1147414948 c:\dev\zelvici\src\mapa.h
+	<vector>
+	"Camera.h"
+	"Screen.h"
+	"TextureManager.h"
+	"GameKeeper.h"
+	"Zelvik.h"
+	"Sound.h"
+	"Draw.h"
+	"Objekty.h"
+	"Particles.h"
+	"Surfaces.h"
+	"Timers.h"
+
+1141338776 c:\dev\zelvici\src\global.cpp
+	"Global.h"
+
+1147414766 c:\dev\zelvici\src\gravity.cpp
+	"Gravity.h"
+
+1147414774 c:\dev\zelvici\src\main.cpp
+	"GameKeeper.h"
+
+1147415106 c:\dev\zelvici\src\timer.h
+	<windows.h>
+	"SDLHeaders.h"
+
+1141301818 c:\dev\zelvici\src\sdl.h
+	"SDLHeaders.h"
+	"TextureManager.h"
+	"Font.h"
+	<cstdlib>
+	<windows.h>
+	"Global.h"
+
+1147414788 c:\dev\zelvici\src\mapa.cpp
+	"Mapa.h"
+
+1147414802 c:\dev\zelvici\src\objects.cpp
+	"Objekty.h"
+
+1147414808 c:\dev\zelvici\src\particles.cpp
+	"Particles.h"
+
+1141241162 c:\dev\zelvici\src\sdl.cpp
+	"SDLHeaders.h"
+	"Global.h"
+	"Font.h"
+	<cstdlib>
+	<windows.h>
+
+1147414838 c:\dev\zelvici\src\sound.cpp
+	"Sound.h"
+
+1147414856 c:\dev\zelvici\src\timer.cpp
+	"Timer.h"
+
+1147414866 c:\dev\zelvici\src\zelvik.cpp
+	"Zelvik.h"
+
+1147414794 c:\dev\zelvici\src\menu.cpp
+	"Menu.h"
+
+1147414966 c:\dev\zelvici\src\menu.h
+	"SDLHeaders.h"
+	"Draw.h"
+	"TextureManager.h"
+	"Surfaces.h"
+	"Font.h"
+	"Timer.h"
+	"Funkce.h"
+	"ScoreTable.h"
+	<cmath>
+	<cstdarg>
+
+1147414702 c:\dev\zelvici\src\csprite.cpp
+	"CSprite.h"
+
+1147414886 c:\dev\zelvici\src\csprite.h
+	"SDLHeaders.h"
+	"Timer.h"
+
+1147414852 c:\dev\zelvici\src\texturemanager.cpp
+	"TextureManager.h"
+
+1147415044 c:\dev\zelvici\src\texturemanager.h
+	"SDLHeaders.h"
+	"Funkce.h"
+	<cstdlib>
+	<string>
+	<vector>
+
+1147414696 c:\dev\zelvici\src\cbutterfly.cpp
+	"CButterFly.h"
+
+1147414882 c:\dev\zelvici\src\cbutterfly.h
+	"Base.h"
+	"Timer.h"
+	"SDLHeaders.h"
+	"CSprite.h"
+	"Screen.h"
+	"Camera.h"
+	<cstdlib>
+
+1147414726 c:\dev\zelvici\src\font.cpp
+	"Font.h"
+
+1145693446 c:\dev\zelvici\src\font.h
+	"SDLHeaders.h"
+
+1147414898 c:\dev\zelvici\src\camera.h
+	"Funkce.h"
+	"Screen.h"
+
+1147415012 c:\dev\zelvici\src\screen.h
+	"SDLHeaders.h"
+
+1147414938 c:\dev\zelvici\src\gamekeeper.h
+	"SDLHeaders.h"
+	"FileSys.h"
+	"Zelvik.h"
+	"Surfaces.h"
+	"Font.h"
+	"TextureManager.h"
+	"Screen.h"
+	"Particles.h"
+	"Mapa.h"
+	"Draw.h"
+	"Camera.h"
+	"Menu.h"
+	"Sound.h"
+	"SlideShow.h"
+	"Timers.h"
+	"Sprites.h"
+
+1147415038 c:\dev\zelvici\src\surfaces.h
+	"SDLHeaders.h"
+
+1147414818 c:\dev\zelvici\src\screen.cpp
+	"Screen.h"
+
+1147414842 c:\dev\zelvici\src\sprites.cpp
+	"Sprites.h"
+
+1147415032 c:\dev\zelvici\src\sprites.h
+	"CButterFly.h"
+	"CSprite.h"
+
+1147414710 c:\dev\zelvici\src\camera.cpp
+	"Camera.h"
+
+1146549662 c:\dev\zelvici\src\gamekeeper.cpp
+	"GameKeeper.h"
+
+1147415112 c:\dev\zelvici\src\timers.h
+	"Timer.h"
+
+1147414860 c:\dev\zelvici\src\timers.cpp
+	"Timers.h"
+
+1147414846 c:\dev\zelvici\src\surfaces.cpp
+	"Surfaces.h"
+
+1147414834 c:\dev\zelvici\src\slideshow.cpp
+	"SlideShow.h"
+
+1147415018 c:\dev\zelvici\src\slideshow.h
+	<SDL/SDL.h>
+	<vector>
+	"Timer.h"
+
+1147415000 c:\dev\zelvici\src\scoretable.h
+	<SDL/SDL.h>
+	"Draw.h"
+	"Font.h"
+
+1147414814 c:\dev\zelvici\src\scoretable.cpp
+	"ScoreTable.h"
+
+1214252698 source:d:\dev\zelvici\cbutterfly.cpp
+	"CButterFly.h"
+
+1214252698 d:\dev\zelvici\cbutterfly.h
+	"Base.h"
+	"Timer.h"
+	"SDLHeaders.h"
+	"CSprite.h"
+	"Screen.h"
+	"Camera.h"
+	<cstdlib>
+
+1214252698 d:\dev\zelvici\base.h
+	"SDLHeaders.h"
+
+1147414996 d:\dev\zelvici\sdlheaders.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+
+1147415106 d:\dev\zelvici\timer.h
+	<windows.h>
+	"SDLHeaders.h"
+
+1214252698 d:\dev\zelvici\csprite.h
+	"SDLHeaders.h"
+	"Timer.h"
+
+1213964226 d:\dev\zelvici\screen.h
+	"SDLHeaders.h"
+
+1214252698 d:\dev\zelvici\camera.h
+	"Funkce.h"
+	"Screen.h"
+
+1214294400 d:\dev\zelvici\funkce.h
+	"SDLHeaders.h"
+	<cstdlib>
+
+1214252698 source:d:\dev\zelvici\csprite.cpp
+	"CSprite.h"
+
+1214252698 source:d:\dev\zelvici\camera.cpp
+	"Camera.h"
+
+1214294400 source:d:\dev\zelvici\draw.cpp
+	"Draw.h"
+
+1214294400 d:\dev\zelvici\draw.h
+	"SDLHeaders.h"
+	"Camera.h"
+	"Mapa.h"
+	"Zelvik.h"
+	"Screen.h"
+	"Font.h"
+	"Surfaces.h"
+	"Sprites.h"
+	"Particles.h"
+	"GameKeeper.h"
+	"Menu.h"
+
+1214306842 d:\dev\zelvici\mapa.h
+	<vector>
+	<io.h>
+	<unistd.h>
+	"Camera.h"
+	"Screen.h"
+	"TextureManager.h"
+	"GameKeeper.h"
+	"Zelvik.h"
+	"Sound.h"
+	"Draw.h"
+	"Objekty.h"
+	"Particles.h"
+	"Environment.h"
+	"Surfaces.h"
+	"Timers.h"
+
+1213964235 d:\dev\zelvici\texturemanager.h
+	"SDLHeaders.h"
+	"Funkce.h"
+	<cstdlib>
+	<string>
+	<vector>
+	<cstring>
+
+1214294400 d:\dev\zelvici\gamekeeper.h
+	"SDLHeaders.h"
+	"FileSys.h"
+	"Zelvik.h"
+	"Surfaces.h"
+	"Font.h"
+	"TextureManager.h"
+	"Screen.h"
+	"Particles.h"
+	"Mapa.h"
+	"Draw.h"
+	"Camera.h"
+	"Menu.h"
+	"Sound.h"
+	"SlideShow.h"
+	"Localizer.h"
+	"Timers.h"
+	"Sprites.h"
+
+1214294400 d:\dev\zelvici\filesys.h
+	<vector>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1147415190 d:\dev\zelvici\zelvik.h
+	"Base.h"
+	"Timer.h"
+	"Sound.h"
+	"Gravity.h"
+	"Funkce.h"
+
+1213961055 d:\dev\zelvici\sound.h
+	"SDLHeaders.h"
+	<vector>
+	<cstring>
+
+1147414942 d:\dev\zelvici\gravity.h
+
+1147415038 d:\dev\zelvici\surfaces.h
+	"SDLHeaders.h"
+
+1214294400 d:\dev\zelvici\font.h
+	"SDLHeaders.h"
+
+1147414990 d:\dev\zelvici\particles.h
+	"Objekty.h"
+	"SDLHeaders.h"
+	"Timer.h"
+	"TextureManager.h"
+	"Camera.h"
+	<cstdlib>
+	<cmath>
+
+1147414982 d:\dev\zelvici\objekty.h
+	"SDLHeaders.h"
+	"Base.h"
+	"Gravity.h"
+	"Timer.h"
+	"Sound.h"
+	"Camera.h"
+	"Screen.h"
+	"Zelvik.h"
+	<cmath>
+
+1214306711 d:\dev\zelvici\menu.h
+	"SDLHeaders.h"
+	"Draw.h"
+	"TextureManager.h"
+	"Surfaces.h"
+	"Font.h"
+	"Timer.h"
+	"Funkce.h"
+	"ScoreTable.h"
+	"Localizer.h"
+	"Environment.h"
+	<cmath>
+	<cstdarg>
+
+1147415000 d:\dev\zelvici\scoretable.h
+	<SDL/SDL.h>
+	"Draw.h"
+	"Font.h"
+
+1147415018 d:\dev\zelvici\slideshow.h
+	<SDL/SDL.h>
+	<vector>
+	"Timer.h"
+
+1147415112 d:\dev\zelvici\timers.h
+	"Timer.h"
+
+1147415032 d:\dev\zelvici\sprites.h
+	"CButterFly.h"
+	"CSprite.h"
+
+1214294400 source:d:\dev\zelvici\filesys.cpp
+	"FileSys.h"
+
+1147414726 source:d:\dev\zelvici\font.cpp
+	"Font.h"
+
+1214294400 source:d:\dev\zelvici\funkce.cpp
+	"Funkce.h"
+
+1214307008 source:d:\dev\zelvici\gamekeeper.cpp
+	"GameKeeper.h"
+
+1147414766 source:d:\dev\zelvici\gravity.cpp
+	"Gravity.h"
+
+1214306680 source:d:\dev\zelvici\main.cpp
+	"GameKeeper.h"
+
+1214306908 source:d:\dev\zelvici\mapa.cpp
+	"Mapa.h"
+
+1214306810 source:d:\dev\zelvici\menu.cpp
+	"Menu.h"
+
+1147414802 source:d:\dev\zelvici\objects.cpp
+	"Objekty.h"
+
+1214264747 source:d:\dev\zelvici\particles.cpp
+	"Particles.h"
+
+1147966250 source:d:\dev\zelvici\scoretable.cpp
+	"ScoreTable.h"
+
+1147414818 source:d:\dev\zelvici\screen.cpp
+	"Screen.h"
+
+1147414834 source:d:\dev\zelvici\slideshow.cpp
+	"SlideShow.h"
+
+1147414838 source:d:\dev\zelvici\sound.cpp
+	"Sound.h"
+
+1147414842 source:d:\dev\zelvici\sprites.cpp
+	"Sprites.h"
+
+1147414846 source:d:\dev\zelvici\surfaces.cpp
+	"Surfaces.h"
+
+1147414852 source:d:\dev\zelvici\texturemanager.cpp
+	"TextureManager.h"
+
+1148075412 source:d:\dev\zelvici\timer.cpp
+	"Timer.h"
+
+1147414860 source:d:\dev\zelvici\timers.cpp
+	"Timers.h"
+
+1147775674 source:d:\dev\zelvici\zelvik.cpp
+	"Zelvik.h"
+
+1214261058 d:\dev\zelvici\localizer.h
+	<map>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<string>
+
+1214261118 source:d:\dev\zelvici\localizer.cpp
+	"Localizer.h"
+
+1214305982 source:d:\dev\zelvici\environment.cpp
+	"Environment.h"
+
+1214309563 d:\dev\zelvici\environment.h
+	<shlobj.h>
+	<cstdio>
+
+1326789890 source:c:\private\zelvici\cbutterfly.cpp
+	"CButterFly.h"
+
+1326789890 c:\private\zelvici\cbutterfly.h
+	"Base.h"
+	"Timer.h"
+	"SDLHeaders.h"
+	"CSprite.h"
+	"Screen.h"
+	"Camera.h"
+	<cstdlib>
+
+1326789890 c:\private\zelvici\base.h
+	"SDLHeaders.h"
+
+1326789890 c:\private\zelvici\sdlheaders.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+
+1326789890 c:\private\zelvici\timer.h
+	<windows.h>
+	"SDLHeaders.h"
+
+1326789890 c:\private\zelvici\csprite.h
+	"SDLHeaders.h"
+	"Timer.h"
+
+1326789890 c:\private\zelvici\screen.h
+	"SDLHeaders.h"
+
+1326789890 c:\private\zelvici\camera.h
+	"Funkce.h"
+	"Screen.h"
+
+1326789890 c:\private\zelvici\funkce.h
+	"SDLHeaders.h"
+	<cstdlib>
+
+1326789890 source:c:\private\zelvici\csprite.cpp
+	"CSprite.h"
+
+1326789890 source:c:\private\zelvici\camera.cpp
+	"Camera.h"
+
+1326789890 source:c:\private\zelvici\draw.cpp
+	"Draw.h"
+
+1326789890 c:\private\zelvici\draw.h
+	"SDLHeaders.h"
+	"Camera.h"
+	"Mapa.h"
+	"Zelvik.h"
+	"Screen.h"
+	"Font.h"
+	"Surfaces.h"
+	"Sprites.h"
+	"Particles.h"
+	"GameKeeper.h"
+	"Menu.h"
+
+1326789890 c:\private\zelvici\mapa.h
+	<vector>
+	<io.h>
+	<unistd.h>
+	"Camera.h"
+	"Screen.h"
+	"TextureManager.h"
+	"GameKeeper.h"
+	"Zelvik.h"
+	"Sound.h"
+	"Draw.h"
+	"Objekty.h"
+	"Particles.h"
+	"Environment.h"
+	"Surfaces.h"
+	"Timers.h"
+
+1326789890 c:\private\zelvici\texturemanager.h
+	"SDLHeaders.h"
+	"Funkce.h"
+	<cstdlib>
+	<string>
+	<vector>
+	<cstring>
+
+1326789890 c:\private\zelvici\gamekeeper.h
+	"SDLHeaders.h"
+	"FileSys.h"
+	"Zelvik.h"
+	"Surfaces.h"
+	"Font.h"
+	"TextureManager.h"
+	"Screen.h"
+	"Particles.h"
+	"Mapa.h"
+	"Draw.h"
+	"Camera.h"
+	"Menu.h"
+	"Sound.h"
+	"SlideShow.h"
+	"Localizer.h"
+	"Timers.h"
+	"Sprites.h"
+
+1326789890 c:\private\zelvici\filesys.h
+	<vector>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1326789890 c:\private\zelvici\zelvik.h
+	"Base.h"
+	"Timer.h"
+	"Sound.h"
+	"Gravity.h"
+	"Funkce.h"
+
+1326789890 c:\private\zelvici\sound.h
+	"SDLHeaders.h"
+	<vector>
+	<cstring>
+
+1326789890 c:\private\zelvici\gravity.h
+
+1326789890 c:\private\zelvici\surfaces.h
+	"SDLHeaders.h"
+
+1326789890 c:\private\zelvici\font.h
+	"SDLHeaders.h"
+
+1326789890 c:\private\zelvici\particles.h
+	"Objekty.h"
+	"SDLHeaders.h"
+	"Timer.h"
+	"TextureManager.h"
+	"Camera.h"
+	<cstdlib>
+	<cmath>
+
+1326789890 c:\private\zelvici\objekty.h
+	"SDLHeaders.h"
+	"Base.h"
+	"Gravity.h"
+	"Timer.h"
+	"Sound.h"
+	"Camera.h"
+	"Screen.h"
+	"Zelvik.h"
+	<cmath>
+
+1326789890 c:\private\zelvici\menu.h
+	"SDLHeaders.h"
+	"Draw.h"
+	"TextureManager.h"
+	"Surfaces.h"
+	"Font.h"
+	"Timer.h"
+	"Funkce.h"
+	"ScoreTable.h"
+	"Localizer.h"
+	"Environment.h"
+	<cmath>
+	<cstdarg>
+
+1326789890 c:\private\zelvici\scoretable.h
+	<SDL/SDL.h>
+	"Draw.h"
+	"Font.h"
+
+1326789890 c:\private\zelvici\localizer.h
+	<map>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<string>
+
+1326790623 c:\private\zelvici\environment.h
+	<shlobj.h>
+	<cstdio>
+
+1326789890 c:\private\zelvici\slideshow.h
+	<SDL/SDL.h>
+	<vector>
+	"Timer.h"
+
+1326789890 c:\private\zelvici\timers.h
+	"Timer.h"
+
+1326789890 c:\private\zelvici\sprites.h
+	"CButterFly.h"
+	"CSprite.h"
+
+1326789890 source:c:\private\zelvici\environment.cpp
+	"Environment.h"
+
+1326790685 source:c:\private\zelvici\filesys.cpp
+	"FileSys.h"
+
+1326789890 source:c:\private\zelvici\font.cpp
+	"Font.h"
+
+1326789890 source:c:\private\zelvici\funkce.cpp
+	"Funkce.h"
+
+1326789890 source:c:\private\zelvici\gamekeeper.cpp
+	"GameKeeper.h"
+
+1326789890 source:c:\private\zelvici\gravity.cpp
+	"Gravity.h"
+
+1326789890 source:c:\private\zelvici\localizer.cpp
+	"Localizer.h"
+
+1326791377 source:c:\private\zelvici\main.cpp
+	"GameKeeper.h"
+	"Localizer.h"
+
+1326789890 source:c:\private\zelvici\mapa.cpp
+	"Mapa.h"
+
+1326789890 source:c:\private\zelvici\menu.cpp
+	"Menu.h"
+
+1326789890 source:c:\private\zelvici\objects.cpp
+	"Objekty.h"
+
+1326789890 source:c:\private\zelvici\particles.cpp
+	"Particles.h"
+
+1326789890 source:c:\private\zelvici\scoretable.cpp
+	"ScoreTable.h"
+
+1326789890 source:c:\private\zelvici\screen.cpp
+	"Screen.h"
+
+1326789890 source:c:\private\zelvici\slideshow.cpp
+	"SlideShow.h"
+
+1326789890 source:c:\private\zelvici\sound.cpp
+	"Sound.h"
+
+1326789890 source:c:\private\zelvici\sprites.cpp
+	"Sprites.h"
+
+1326789890 source:c:\private\zelvici\surfaces.cpp
+	"Surfaces.h"
+
+1326789890 source:c:\private\zelvici\texturemanager.cpp
+	"TextureManager.h"
+
+1326789890 source:c:\private\zelvici\timer.cpp
+	"Timer.h"
+
+1326789890 source:c:\private\zelvici\timers.cpp
+	"Timers.h"
+
+1326789890 source:c:\private\zelvici\zelvik.cpp
+	"Zelvik.h"
+
+1331815784 source:c:\private\zelvicitouch\cbutterfly.cpp
+	"CButterFly.h"
+
+1331815637 c:\private\zelvicitouch\cbutterfly.h
+	"Base.h"
+	"Timer.h"
+	"SDLHeaders.h"
+	"CSprite.h"
+	"Screen.h"
+	"Camera.h"
+	<cstdlib>
+
+1331821455 c:\private\zelvicitouch\base.h
+	"SDLHeaders.h"
+
+1331895653 c:\private\zelvicitouch\sdlheaders.h
+	<SDL/SDL.h>
+
+1331815637 c:\private\zelvicitouch\timer.h
+	<windows.h>
+	"SDLHeaders.h"
+
+1331815637 c:\private\zelvicitouch\csprite.h
+	"SDLHeaders.h"
+	"Timer.h"
+	<cstdio>
+
+1331821072 c:\private\zelvicitouch\screen.h
+	"SDLHeaders.h"
+
+1331818327 c:\private\zelvicitouch\camera.h
+	"Funkce.h"
+	"Screen.h"
+
+1328108534 c:\private\zelvicitouch\funkce.h
+	"SDLHeaders.h"
+	<cstdlib>
+
+1329209697 c:\private\zelvicitouch\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209695 c:\private\zelvicitouch\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_windows.h"
+	"SDL_config_macosx.h"
+	"SDL_config_iphoneos.h"
+	"SDL_config_android.h"
+	"SDL_config_nintendods.h"
+	"SDL_config_minimal.h"
+
+1329209698 c:\private\zelvicitouch\sdl\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\begin_code.h
+
+1329209696 c:\private\zelvicitouch\sdl\close_code.h
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_config_windows.h
+	"SDL_platform.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_config_macosx.h
+	"SDL_platform.h"
+	<AvailabilityMacros.h>
+
+1329209697 c:\private\zelvicitouch\sdl\sdl_config_iphoneos.h
+	"SDL_platform.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_config_android.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_config_nintendods.h
+	"SDL_platform.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_config_minimal.h
+	"SDL_platform.h"
+	<stddef.h>
+	<stdarg.h>
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<intrin.h>
+	<libkern/OSAtomic.h>
+	"close_code.h"
+
+1329209695 c:\private\zelvicitouch\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209697 c:\private\zelvicitouch\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209697 c:\private\zelvicitouch\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209697 c:\private\zelvicitouch\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_pixels.h
+	"begin_code.h"
+	"close_code.h"
+
+1329209697 c:\private\zelvicitouch\sdl\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1329209697 c:\private\zelvicitouch\sdl\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209695 c:\private\zelvicitouch\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209698 c:\private\zelvicitouch\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209696 c:\private\zelvicitouch\sdl\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209697 c:\private\zelvicitouch\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1329209695 c:\private\zelvicitouch\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1331815801 source:c:\private\zelvicitouch\csprite.cpp
+	"CSprite.h"
+
+1331815637 source:c:\private\zelvicitouch\camera.cpp
+	"Camera.h"
+
+1331897966 source:c:\private\zelvicitouch\draw.cpp
+	"Draw.h"
+	<string.h>
+
+1331895690 c:\private\zelvicitouch\draw.h
+	"SDLHeaders.h"
+	"Camera.h"
+	"Mapa.h"
+	"Zelvik.h"
+	"Screen.h"
+	"Font.h"
+	"Particles.h"
+	"GameKeeper.h"
+	"Menu.h"
+
+1331816374 c:\private\zelvicitouch\mapa.h
+	<vector>
+	<io.h>
+	<unistd.h>
+	"Camera.h"
+	"Screen.h"
+	"TextureManager.h"
+	"GameKeeper.h"
+	"Zelvik.h"
+	"Sound.h"
+	"Draw.h"
+	"Objekty.h"
+	"Particles.h"
+	"Environment.h"
+	"Timers.h"
+
+1331815637 c:\private\zelvicitouch\texturemanager.h
+	"SDLHeaders.h"
+	"Funkce.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<cstring>
+
+1331897797 c:\private\zelvicitouch\gamekeeper.h
+	"SDLHeaders.h"
+	"FileSys.h"
+	"Zelvik.h"
+	"Font.h"
+	"TextureManager.h"
+	"Screen.h"
+	"Particles.h"
+	"Mapa.h"
+	"Draw.h"
+	"Camera.h"
+	"Menu.h"
+	"Sound.h"
+	"SlideShow.h"
+	"Localizer.h"
+	"Timers.h"
+	"CSprite.h"
+	"CButterFly.h"
+	<cstdio>
+	<cstdlib>
+
+1328108534 c:\private\zelvicitouch\filesys.h
+	<vector>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1331818875 c:\private\zelvicitouch\zelvik.h
+	"Base.h"
+	"Timer.h"
+	"Sound.h"
+	"Gravity.h"
+	"Funkce.h"
+
+1329210475 c:\private\zelvicitouch\sound.h
+	"SDLHeaders.h"
+	<vector>
+	<cstring>
+
+1328108535 c:\private\zelvicitouch\gravity.h
+
+1331819714 c:\private\zelvicitouch\font.h
+	"SDLHeaders.h"
+
+1331815637 c:\private\zelvicitouch\particles.h
+	"Objekty.h"
+	"SDLHeaders.h"
+	"Timer.h"
+	"TextureManager.h"
+	"Camera.h"
+	<cstdlib>
+	<cmath>
+
+1331815637 c:\private\zelvicitouch\objekty.h
+	"SDLHeaders.h"
+	"Base.h"
+	"Gravity.h"
+	"Timer.h"
+	"Sound.h"
+	"Camera.h"
+	"Screen.h"
+	"Zelvik.h"
+	<cmath>
+
+1331895667 c:\private\zelvicitouch\menu.h
+	"SDLHeaders.h"
+	"Draw.h"
+	"TextureManager.h"
+	"Font.h"
+	"Timer.h"
+	"Funkce.h"
+	"ScoreTable.h"
+	"Localizer.h"
+	"Environment.h"
+	<cmath>
+	<cstdarg>
+	<vector>
+
+1331815637 c:\private\zelvicitouch\scoretable.h
+	"SDLHeaders.h"
+	"Draw.h"
+	"Font.h"
+
+1328108535 c:\private\zelvicitouch\localizer.h
+	<map>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<string>
+
+1328108534 c:\private\zelvicitouch\environment.h
+	<shlobj.h>
+	<cstdio>
+
+1331815637 c:\private\zelvicitouch\slideshow.h
+	"SDLHeaders.h"
+	<vector>
+	"Timer.h"
+
+1328108534 c:\private\zelvicitouch\timers.h
+	"Timer.h"
+
+1328108534 source:c:\private\zelvicitouch\environment.cpp
+	"Environment.h"
+
+1328108534 source:c:\private\zelvicitouch\filesys.cpp
+	"FileSys.h"
+
+1329214462 source:c:\private\zelvicitouch\font.cpp
+	"Font.h"
+
+1329211283 source:c:\private\zelvicitouch\funkce.cpp
+	"Funkce.h"
+	<cstdlib>
+	<cstring>
+	<string.h>
+
+1331897943 source:c:\private\zelvicitouch\gamekeeper.cpp
+	"GameKeeper.h"
+
+1328108534 source:c:\private\zelvicitouch\gravity.cpp
+	"Gravity.h"
+
+1331896435 source:c:\private\zelvicitouch\localizer.cpp
+	"Localizer.h"
+
+1329211297 source:c:\private\zelvicitouch\main.cpp
+	"GameKeeper.h"
+	"Localizer.h"
+
+1331819543 source:c:\private\zelvicitouch\mapa.cpp
+	"Mapa.h"
+
+1331896008 source:c:\private\zelvicitouch\menu.cpp
+	"Menu.h"
+
+1331820973 source:c:\private\zelvicitouch\objects.cpp
+	"Objekty.h"
+
+1331821034 source:c:\private\zelvicitouch\particles.cpp
+	"Particles.h"
+
+1331815637 source:c:\private\zelvicitouch\scoretable.cpp
+	"ScoreTable.h"
+
+1331821064 source:c:\private\zelvicitouch\screen.cpp
+	"Screen.h"
+	<cstdlib>
+	<stdio.h>
+
+1331821230 source:c:\private\zelvicitouch\slideshow.cpp
+	"SlideShow.h"
+	<stdio.h>
+	<cstdio>
+
+1331815637 source:c:\private\zelvicitouch\sound.cpp
+	"Sound.h"
+	<stdio.h>
+
+1328108534 source:c:\private\zelvicitouch\sprites.cpp
+	"Sprites.h"
+
+1328108534 c:\private\zelvicitouch\sprites.h
+	"CButterFly.h"
+	"CSprite.h"
+
+1328108534 source:c:\private\zelvicitouch\surfaces.cpp
+	"Surfaces.h"
+
+1328108534 c:\private\zelvicitouch\surfaces.h
+	"SDLHeaders.h"
+
+1331896334 source:c:\private\zelvicitouch\texturemanager.cpp
+	"TextureManager.h"
+	<stdio.h>
+	<cstdlib>
+
+1331815637 source:c:\private\zelvicitouch\timer.cpp
+	"Timer.h"
+
+1328108534 source:c:\private\zelvicitouch\timers.cpp
+	"Timers.h"
+
+1331821364 source:c:\private\zelvicitouch\zelvik.cpp
+	"Zelvik.h"
+	<stdio.h>
+
+1332956712 source:d:\dev\zelvicitouch\cbutterfly.cpp
+	"CButterFly.h"
+
+1332956712 d:\dev\zelvicitouch\cbutterfly.h
+	"Base.h"
+	"Timer.h"
+	"SDLHeaders.h"
+	"CSprite.h"
+	"Screen.h"
+	"Camera.h"
+	<cstdlib>
+
+1332022745 d:\dev\zelvicitouch\base.h
+	"SDLHeaders.h"
+	"Camera.h"
+
+1333397504 d:\dev\zelvicitouch\sdlheaders.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+
+1333040367 d:\dev\zelvicitouch\timer.h
+	<windows.h>
+	"SDLHeaders.h"
+
+1332021593 d:\dev\zelvicitouch\csprite.h
+	"SDLHeaders.h"
+	"Timer.h"
+	<cstdio>
+
+1333040367 d:\dev\zelvicitouch\screen.h
+	"SDLHeaders.h"
+
+1333054087 d:\dev\zelvicitouch\camera.h
+	"Common.h"
+	"Screen.h"
+
+1328112134 d:\dev\zelvicitouch\funkce.h
+	"SDLHeaders.h"
+	<cstdlib>
+
+1331819401 source:d:\dev\zelvicitouch\csprite.cpp
+	"CSprite.h"
+
+1332196066 source:d:\dev\zelvicitouch\camera.cpp
+	"Camera.h"
+
+1333572230 source:d:\dev\zelvicitouch\draw.cpp
+	"Draw.h"
+	<string.h>
+
+1333573249 d:\dev\zelvicitouch\draw.h
+	"SDLHeaders.h"
+	"Camera.h"
+	"Map.h"
+	"Zelvik.h"
+	"Screen.h"
+	"Font.h"
+	"Particles.h"
+	"Engine.h"
+	"Menu.h"
+	<vector>
+
+1332196144 d:\dev\zelvicitouch\mapa.h
+	<vector>
+	<io.h>
+	<unistd.h>
+	"Camera.h"
+	"Screen.h"
+	"TextureManager.h"
+	"GameKeeper.h"
+	"Zelvik.h"
+	"Sound.h"
+	"Draw.h"
+	"Particles.h"
+	"Environment.h"
+	"Timers.h"
+
+1333040367 d:\dev\zelvicitouch\texturemanager.h
+	"SDLHeaders.h"
+	"Common.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<cstring>
+
+1332196129 d:\dev\zelvicitouch\gamekeeper.h
+	"SDLHeaders.h"
+	"FileSys.h"
+	"Zelvik.h"
+	"Font.h"
+	"TextureManager.h"
+	"Screen.h"
+	"Particles.h"
+	"Mapa.h"
+	"Draw.h"
+	"Camera.h"
+	"Menu.h"
+	"Sound.h"
+	"SlideShow.h"
+	"Localizer.h"
+	"Timers.h"
+	"CSprite.h"
+	"CButterFly.h"
+	<cstdio>
+	<cstdlib>
+
+1332071563 d:\dev\zelvicitouch\filesys.h
+	<vector>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1333397327 d:\dev\zelvicitouch\zelvik.h
+	"Base.h"
+	"Timer.h"
+	"Sound.h"
+	"Gravity.h"
+	"Common.h"
+
+1333397327 d:\dev\zelvicitouch\sound.h
+	"SDLHeaders.h"
+	<vector>
+	<cstring>
+
+1333040367 d:\dev\zelvicitouch\gravity.h
+
+1333053508 d:\dev\zelvicitouch\font.h
+	"SDLHeaders.h"
+	"TextureManager.h"
+	"FontFactory.h"
+	<map>
+
+1333397327 d:\dev\zelvicitouch\particles.h
+	"Objects.h"
+	"SDLHeaders.h"
+	"Timer.h"
+	"TextureManager.h"
+	"Camera.h"
+	<cstdlib>
+	<cmath>
+
+1332196119 d:\dev\zelvicitouch\objekty.h
+	"SDLHeaders.h"
+	"Base.h"
+	"Gravity.h"
+	"Timer.h"
+	"Sound.h"
+	"Camera.h"
+	"Screen.h"
+	"Zelvik.h"
+	<cmath>
+
+1333571932 d:\dev\zelvicitouch\menu.h
+	"SDLHeaders.h"
+	"Draw.h"
+	"TextureManager.h"
+	"Font.h"
+	"Timer.h"
+	"Common.h"
+	"ScoreTable.h"
+	"Localizer.h"
+	"Environment.h"
+	"SpriteText.h"
+	<cmath>
+	<cstdarg>
+	<vector>
+
+1333397327 d:\dev\zelvicitouch\scoretable.h
+	"SDLHeaders.h"
+	"Draw.h"
+	"Font.h"
+
+1333040367 d:\dev\zelvicitouch\localizer.h
+	<map>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<string>
+
+1333397327 d:\dev\zelvicitouch\environment.h
+	<shlobj.h>
+	<cstdio>
+
+1333040367 d:\dev\zelvicitouch\slideshow.h
+	"SDLHeaders.h"
+	<vector>
+	"Timer.h"
+
+1333040367 d:\dev\zelvicitouch\timers.h
+	"Timer.h"
+
+1333397327 source:d:\dev\zelvicitouch\environment.cpp
+	"Environment.h"
+
+1332020432 source:d:\dev\zelvicitouch\filesys.cpp
+	"FileSys.h"
+
+1333053626 source:d:\dev\zelvicitouch\font.cpp
+	"Font.h"
+
+1329214883 source:d:\dev\zelvicitouch\funkce.cpp
+	"Funkce.h"
+	<cstdlib>
+	<cstring>
+	<string.h>
+
+1332956712 source:d:\dev\zelvicitouch\gamekeeper.cpp
+	"GameKeeper.h"
+
+1328112134 source:d:\dev\zelvicitouch\gravity.cpp
+	"Gravity.h"
+
+1333053300 source:d:\dev\zelvicitouch\localizer.cpp
+	"Localizer.h"
+
+1333397327 source:d:\dev\zelvicitouch\main.cpp
+	"Engine.h"
+
+1332196892 source:d:\dev\zelvicitouch\mapa.cpp
+	"Mapa.h"
+
+1333572218 source:d:\dev\zelvicitouch\menu.cpp
+	"Menu.h"
+
+1333040367 source:d:\dev\zelvicitouch\objects.cpp
+	"Objects.h"
+
+1333397327 source:d:\dev\zelvicitouch\particles.cpp
+	"Particles.h"
+
+1333397327 source:d:\dev\zelvicitouch\scoretable.cpp
+	"ScoreTable.h"
+
+1332196986 source:d:\dev\zelvicitouch\screen.cpp
+	"Screen.h"
+	<cstdlib>
+	<stdio.h>
+
+1332956712 source:d:\dev\zelvicitouch\slideshow.cpp
+	"SlideShow.h"
+	<stdio.h>
+	<cstdio>
+
+1333397327 source:d:\dev\zelvicitouch\sound.cpp
+	"Sound.h"
+	"Common.h"
+	<stdio.h>
+
+1331902266 source:d:\dev\zelvicitouch\sprites.cpp
+	"Sprites.h"
+
+1331902266 d:\dev\zelvicitouch\sprites.h
+	"CButterFly.h"
+	"CSprite.h"
+
+1333397327 source:d:\dev\zelvicitouch\texturemanager.cpp
+	"TextureManager.h"
+	<stdio.h>
+	<cstdlib>
+
+1333397327 source:d:\dev\zelvicitouch\timer.cpp
+	"Timer.h"
+
+1333397327 source:d:\dev\zelvicitouch\timers.cpp
+	"Timers.h"
+
+1331824964 source:d:\dev\zelvicitouch\zelvik.cpp
+	"Zelvik.h"
+	<stdio.h>
+
+1332956712 source:d:\dev\zelvicitouch\base.cpp
+	"Base.h"
+
+1332920432 source:c:\private\zelvici_1.0.2\cbutterfly.cpp
+	"CButterFly.h"
+
+1332920361 c:\private\zelvici_1.0.2\cbutterfly.h
+	"Base.h"
+	"Timer.h"
+	"SDLHeaders.h"
+	"CSprite.h"
+	"Screen.h"
+	"Camera.h"
+	<cstdlib>
+
+1334755662 c:\private\zelvici_1.0.2\base.h
+	"SDLHeaders.h"
+	"Camera.h"
+
+1333094811 c:\private\zelvici_1.0.2\sdlheaders.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+
+1334755662 c:\private\zelvici_1.0.2\camera.h
+	"Common.h"
+	"Screen.h"
+
+1333009901 c:\private\zelvici_1.0.2\funkce.h
+	"SDLHeaders.h"
+	<cstdlib>
+
+1334755664 c:\private\zelvici_1.0.2\screen.h
+	"SDLHeaders.h"
+
+1334755664 c:\private\zelvici_1.0.2\timer.h
+	<windows.h>
+	"SDLHeaders.h"
+
+1332241679 c:\private\zelvici_1.0.2\csprite.h
+	"SDLHeaders.h"
+	"Timer.h"
+	<cstdio>
+
+1332241678 source:c:\private\zelvici_1.0.2\csprite.cpp
+	"CSprite.h"
+
+1334755578 source:c:\private\zelvici_1.0.2\camera.cpp
+	"Camera.h"
+
+1334755578 source:c:\private\zelvici_1.0.2\draw.cpp
+	"Draw.h"
+	<string.h>
+
+1334755663 c:\private\zelvici_1.0.2\draw.h
+	"SDLHeaders.h"
+	"Camera.h"
+	"Map.h"
+	"Zelvik.h"
+	"Screen.h"
+	"Font.h"
+	"Particles.h"
+	"Engine.h"
+	"Menu.h"
+	"SpriteText.h"
+	<vector>
+
+1333010615 c:\private\zelvici_1.0.2\mapa.h
+	<vector>
+	<io.h>
+	<unistd.h>
+	"Camera.h"
+	"Screen.h"
+	"TextureManager.h"
+	"Engine.h"
+	"Zelvik.h"
+	"Sound.h"
+	"Draw.h"
+	"Particles.h"
+	"Environment.h"
+	"Timers.h"
+
+1334561539 c:\private\zelvici_1.0.2\texturemanager.h
+	"SDLHeaders.h"
+	"Common.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<vector>
+	<cstring>
+
+1333010046 c:\private\zelvici_1.0.2\gamekeeper.h
+	"SDLHeaders.h"
+	"CConfig.h"
+	"Zelvik.h"
+	"Font.h"
+	"TextureManager.h"
+	"Screen.h"
+	"Particles.h"
+	"Mapa.h"
+	"Draw.h"
+	"Camera.h"
+	"Menu.h"
+	"Sound.h"
+	"SlideShow.h"
+	"Localizer.h"
+	"Timers.h"
+	"CSprite.h"
+	"CButterFly.h"
+	<cstdio>
+	<cstdlib>
+
+1333009553 c:\private\zelvici_1.0.2\filesys.h
+	<vector>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1334755665 c:\private\zelvici_1.0.2\zelvik.h
+	"Base.h"
+	"Timer.h"
+	"Sound.h"
+	"Gravity.h"
+	"Common.h"
+
+1334755664 c:\private\zelvici_1.0.2\sound.h
+	"SDLHeaders.h"
+	<vector>
+	<cstring>
+
+1334755663 c:\private\zelvici_1.0.2\gravity.h
+
+1334755663 c:\private\zelvici_1.0.2\font.h
+	"SDLHeaders.h"
+	"TextureManager.h"
+	"FontFactory.h"
+	<map>
+
+1334755664 c:\private\zelvici_1.0.2\particles.h
+	"Objects.h"
+	"SDLHeaders.h"
+	"Timer.h"
+	"TextureManager.h"
+	"Camera.h"
+	<cstdlib>
+	<cmath>
+
+1332241679 c:\private\zelvici_1.0.2\objekty.h
+	"SDLHeaders.h"
+	"Base.h"
+	"Gravity.h"
+	"Timer.h"
+	"Sound.h"
+	"Camera.h"
+	"Screen.h"
+	"Zelvik.h"
+	<cmath>
+
+1334755663 c:\private\zelvici_1.0.2\menu.h
+	"SDLHeaders.h"
+	"Draw.h"
+	"TextureManager.h"
+	"Font.h"
+	"Timer.h"
+	"Common.h"
+	"ScoreTable.h"
+	"Localizer.h"
+	"Environment.h"
+	"SpriteText.h"
+	<cmath>
+	<cstdarg>
+	<vector>
+
+1334755664 c:\private\zelvici_1.0.2\scoretable.h
+	"SDLHeaders.h"
+	"Draw.h"
+	"Font.h"
+	"SpriteText.h"
+
+1334755663 c:\private\zelvici_1.0.2\localizer.h
+	"Common.h"
+	<map>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+	<string>
+
+1334755663 c:\private\zelvici_1.0.2\environment.h
+	<shlobj.h>
+	<cstdio>
+
+1334755664 c:\private\zelvici_1.0.2\slideshow.h
+	"SDLHeaders.h"
+	"Timer.h"
+	"Common.h"
+	"Localizer.h"
+	<vector>
+
+1334218891 c:\private\zelvici_1.0.2\timers.h
+	"Timer.h"
+	"TimerFactory.h"
+
+1334755578 source:c:\private\zelvici_1.0.2\environment.cpp
+	"Environment.h"
+
+1333009566 source:c:\private\zelvici_1.0.2\filesys.cpp
+	"FileSys.h"
+
+1334755578 source:c:\private\zelvici_1.0.2\font.cpp
+	"Font.h"
+
+1333009896 source:c:\private\zelvici_1.0.2\funkce.cpp
+	"Funkce.h"
+	<cstdlib>
+	<cstring>
+	<string.h>
+
+1333010108 source:c:\private\zelvici_1.0.2\gamekeeper.cpp
+	"GameKeeper.h"
+
+1334224067 source:c:\private\zelvici_1.0.2\gravity.cpp
+	"Gravity.h"
+
+1334755578 source:c:\private\zelvici_1.0.2\localizer.cpp
+	"Localizer.h"
+
+1334755578 source:c:\private\zelvici_1.0.2\main.cpp
+	"Engine.h"
+
+1332241679 source:c:\private\zelvici_1.0.2\mapa.cpp
+	"Mapa.h"
+
+1334755487 source:c:\private\zelvici_1.0.2\menu.cpp
+	"Menu.h"
+
+1334220308 source:c:\private\zelvici_1.0.2\objects.cpp
+	"Objects.h"
+
+1334755578 source:c:\private\zelvici_1.0.2\particles.cpp
+	"Particles.h"
+
+1334755578 source:c:\private\zelvici_1.0.2\scoretable.cpp
+	"ScoreTable.h"
+
+1334755578 source:c:\private\zelvici_1.0.2\screen.cpp
+	"Screen.h"
+	<cstdlib>
+	<stdio.h>
+
+1334755578 source:c:\private\zelvici_1.0.2\slideshow.cpp
+	"SlideShow.h"
+	<stdio.h>
+	<cstdio>
+
+1334755578 source:c:\private\zelvici_1.0.2\sound.cpp
+	"Sound.h"
+	"Common.h"
+	<stdio.h>
+
+1332241679 source:c:\private\zelvici_1.0.2\sprites.cpp
+	"Sprites.h"
+
+1332241678 c:\private\zelvici_1.0.2\sprites.h
+	"CButterFly.h"
+	"CSprite.h"
+
+1334755578 source:c:\private\zelvici_1.0.2\texturemanager.cpp
+	"TextureManager.h"
+	<stdio.h>
+	<cstdlib>
+
+1334755579 source:c:\private\zelvici_1.0.2\timer.cpp
+	"Timer.h"
+
+1334218885 source:c:\private\zelvici_1.0.2\timers.cpp
+	"Timers.h"
+
+1334755579 source:c:\private\zelvici_1.0.2\zelvik.cpp
+	"Zelvik.h"
+	<stdio.h>
+
+1332920290 source:c:\private\zelvici_1.0.2\base.cpp
+	"Base.h"
+
+1333009175 c:\private\zelvici_1.0.2\cspritetext.h
+	"SDLHeaders.h"
+	"Font.h"
+	"TextureManager.h"
+
+1333010266 source:c:\private\zelvici_1.0.2\cspritetext.cpp
+	"CSpriteText.h"
+
+1333009712 source:c:\private\zelvici_1.0.2\cconfig.cpp
+	"CConfig.h"
+
+1333009553 c:\private\zelvici_1.0.2\cconfig.h
+	<vector>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1333010046 c:\private\zelvici_1.0.2\cengine.h
+	"SDLHeaders.h"
+	"CConfig.h"
+	"Zelvik.h"
+	"Font.h"
+	"TextureManager.h"
+	"Screen.h"
+	"Particles.h"
+	"Mapa.h"
+	"Draw.h"
+	"Camera.h"
+	"Menu.h"
+	"Sound.h"
+	"SlideShow.h"
+	"Localizer.h"
+	"Timers.h"
+	"CSprite.h"
+	"CButterFly.h"
+	<cstdio>
+	<cstdlib>
+
+1333010330 source:c:\private\zelvici_1.0.2\cengine.cpp
+	"CEngine.h"
+
+1334755532 source:c:\private\zelvici_1.0.2\butterfly.cpp
+	"ButterFly.h"
+
+1334755662 c:\private\zelvici_1.0.2\butterfly.h
+	"Base.h"
+	"Timer.h"
+	"SDLHeaders.h"
+	"Sprite.h"
+	"Screen.h"
+	"Camera.h"
+	<cstdlib>
+
+1334755664 c:\private\zelvici_1.0.2\sprite.h
+	"SDLHeaders.h"
+	"Timer.h"
+	<cstdio>
+
+1334755578 source:c:\private\zelvici_1.0.2\config.cpp
+	"Config.h"
+
+1334755662 c:\private\zelvici_1.0.2\config.h
+	"Common.h"
+	"Environment.h"
+	<vector>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1334755663 c:\private\zelvici_1.0.2\engine.h
+	"SDLHeaders.h"
+	"Config.h"
+	"Zelvik.h"
+	"Font.h"
+	"TextureManager.h"
+	"Screen.h"
+	"Particles.h"
+	"Map.h"
+	"Draw.h"
+	"Camera.h"
+	"Menu.h"
+	"Sound.h"
+	"SlideShow.h"
+	"Localizer.h"
+	"Timers.h"
+	"Sprite.h"
+	"ButterFly.h"
+	"FontFactory.h"
+	<cstdio>
+	<cstdlib>
+
+1334755664 c:\private\zelvici_1.0.2\spritetext.h
+	"SDLHeaders.h"
+	"Font.h"
+	"TextureManager.h"
+	<cstdarg>
+
+1334755442 source:c:\private\zelvici_1.0.2\engine.cpp
+	"Engine.h"
+
+1334755578 source:c:\private\zelvici_1.0.2\sprite.cpp
+	"Sprite.h"
+
+1334562690 source:c:\private\zelvici_1.0.2\spritetext.cpp
+	"SpriteText.h"
+
+1334580467 c:\private\zelvici_1.0.2\common.h
+	"SDLHeaders.h"
+	<cstdlib>
+
+1334561510 source:c:\private\zelvici_1.0.2\common.cpp
+	"Common.h"
+	<cstdlib>
+	<cstring>
+	<string.h>
+
+1334755663 c:\private\zelvici_1.0.2\map.h
+	<vector>
+	<io.h>
+	<unistd.h>
+	"Camera.h"
+	"Screen.h"
+	"TextureManager.h"
+	"Engine.h"
+	"Zelvik.h"
+	"Sound.h"
+	"Draw.h"
+	"Particles.h"
+	"Environment.h"
+	"Timers.h"
+
+1334220336 c:\private\zelvici_1.0.2\objects.h
+	"SDLHeaders.h"
+	"Enemy.h"
+	"Item.h"
+	"Object.h"
+
+1334755578 source:c:\private\zelvici_1.0.2\map.cpp
+	"Map.h"
+
+1333040367 d:\dev\zelvicitouch\common.h
+	"SDLHeaders.h"
+	<cstdlib>
+
+1333040367 source:d:\dev\zelvicitouch\butterfly.cpp
+	"ButterFly.h"
+
+1333040367 d:\dev\zelvicitouch\butterfly.h
+	"Base.h"
+	"Timer.h"
+	"SDLHeaders.h"
+	"Sprite.h"
+	"Screen.h"
+	"Camera.h"
+	<cstdlib>
+
+1333040367 d:\dev\zelvicitouch\sprite.h
+	"SDLHeaders.h"
+	"Timer.h"
+	<cstdio>
+
+1333040367 source:d:\dev\zelvicitouch\common.cpp
+	"Common.h"
+	<cstdlib>
+	<cstring>
+	<string.h>
+
+1333040367 source:d:\dev\zelvicitouch\config.cpp
+	"Config.h"
+
+1333040367 d:\dev\zelvicitouch\config.h
+	<vector>
+	<cstdio>
+	<cstring>
+	<cstdlib>
+
+1333559406 d:\dev\zelvicitouch\map.h
+	<vector>
+	<io.h>
+	<unistd.h>
+	"Camera.h"
+	"Screen.h"
+	"TextureManager.h"
+	"Engine.h"
+	"Zelvik.h"
+	"Sound.h"
+	"Draw.h"
+	"Particles.h"
+	"Environment.h"
+	"Timers.h"
+
+1333397327 d:\dev\zelvicitouch\engine.h
+	"SDLHeaders.h"
+	"Config.h"
+	"Zelvik.h"
+	"Font.h"
+	"TextureManager.h"
+	"Screen.h"
+	"Particles.h"
+	"Map.h"
+	"Draw.h"
+	"Camera.h"
+	"Menu.h"
+	"Sound.h"
+	"SlideShow.h"
+	"Localizer.h"
+	"Timers.h"
+	"Sprite.h"
+	"ButterFly.h"
+	"FontFactory.h"
+	<cstdio>
+	<cstdlib>
+
+1333040367 d:\dev\zelvicitouch\objects.h
+	"SDLHeaders.h"
+	"Base.h"
+	"Gravity.h"
+	"Timer.h"
+	"Sound.h"
+	"Camera.h"
+	"Screen.h"
+	"Zelvik.h"
+	<cmath>
+
+1333572766 d:\dev\zelvicitouch\spritetext.h
+	"SDLHeaders.h"
+	"Font.h"
+	"TextureManager.h"
+
+1333572024 source:d:\dev\zelvicitouch\engine.cpp
+	"Engine.h"
+
+1333559406 source:d:\dev\zelvicitouch\map.cpp
+	"Map.h"
+
+1333040367 source:d:\dev\zelvicitouch\sprite.cpp
+	"Sprite.h"
+
+1333397327 source:d:\dev\zelvicitouch\spritetext.cpp
+	"SpriteText.h"
+
+1333052924 source:d:\dev\zelvicitouch\fontfactory.cpp
+	"FontFactory.h"
+
+1333052838 d:\dev\zelvicitouch\fontfactory.h
+	"Font.h"
+
+1333094107 c:\private\zelvici_1.0.2\fontfactory.h
+	"Font.h"
+
+1333094107 source:c:\private\zelvici_1.0.2\fontfactory.cpp
+	"FontFactory.h"
+
+1334217317 c:\private\zelvici_1.0.2\timerfactory.h
+	"Timer.h"
+	<map>
+
+1334223228 source:c:\private\zelvici_1.0.2\timerfactory.cpp
+	"TimerFactory.h"
+
+1334755663 c:\private\zelvici_1.0.2\enemy.h
+	"Base.h"
+	"Sound.h"
+	"Gravity.h"
+	"Zelvik.h"
+
+1334755578 source:c:\private\zelvici_1.0.2\enemy.cpp
+	"Enemy.h"
+
+1334220462 c:\private\zelvici_1.0.2\item.h
+	"Timer.h"
+	"Base.h"
+	<cmath>
+
+1334755664 c:\private\zelvici_1.0.2\object.h
+	"Base.h"
+	"Timer.h"
+
+1334755578 source:c:\private\zelvici_1.0.2\item.cpp
+	"Item.h"
+
+1334220324 source:c:\private\zelvici_1.0.2\object.cpp
+	"Object.h"
+

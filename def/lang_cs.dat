@@ -1,0 +1,34 @@
+1;Nová hra
+2;Pokraèovat
+3;Tabulka hráèù
+4;Autoøi
+5;Konec hry
+6;Pro dìti
+7;Støední
+8;Tìžká
+9;Zpátky
+10;Ne
+11;Ano
+12;Chcete ukonèit hru?
+13;Program
+14;Grafika
+15;Zvuk
+16;Testování
+17;David Schwarz
+18;Eliška Bìhalová
+19;Marek Buchar
+20;Josef Šuma
+21;Tabulka nejlepších hráèù
+22;Skóre
+23;Omráèeno zvíøátek: %d/%d
+24;Sebráno ovoce a zeleniny: %d/%d
+25;Stisknìte ENTER pro pokraèování
+26;Nikdo
+27;Jméno:
+28;Skóre: %d
+29;Všichni nepøátelé zneškodnìni! +%d skóre.
+30;Sebrána všechna zelenina a ovoce! +%d skóre.
+31;Nastavení
+32;Zvuk:
+33;Hudba:
+34;Jazyk:

@@ -1,0 +1,34 @@
+1;New game
+2;Continue
+3;Player scores
+4;Credits
+5;Exit game
+6;For kids
+7;Moderate
+8;Hard
+9;Back
+10;No
+11;Yes
+12;Do you want to quit?
+13;Programer
+14;Graphics
+15;Sound
+16;QA
+17;David Schwarz
+18;Eliska Behalova
+19;Marek Buchar
+20;Josef Suma
+21;Best players
+22;Score
+23;Enemies knocked: %d/%d
+24;Fruits and vegetables: %d/%d
+25;Press ENTER to continue
+26;Nobody
+27;Name:
+28;Score: %d
+29;Enemies bonus! +%d score.
+30;Fruits and vegetables madness! +%d score.
+31;Settings
+32;Sound:
+33;Music:
+34;Language:

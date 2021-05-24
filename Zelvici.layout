@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="All" />
+	<File name="Base.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="Base.h" open="0" top="0" tabpos="1">
+		<Cursor position="2071" topLine="0" />
+	</File>
+	<File name="Camera.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="1623" topLine="0" />
+	</File>
+	<File name="Camera.h" open="0" top="0" tabpos="2">
+		<Cursor position="1680" topLine="0" />
+	</File>
+	<File name="Common.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1852" topLine="8" />
+	</File>
+	<File name="Common.h" open="0" top="0" tabpos="5">
+		<Cursor position="1596" topLine="0" />
+	</File>
+	<File name="Config.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2842" topLine="31" />
+	</File>
+	<File name="Config.h" open="0" top="0" tabpos="0">
+		<Cursor position="1650" topLine="0" />
+	</File>
+	<File name="Draw.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="4606" topLine="69" />
+	</File>
+	<File name="Draw.h" open="0" top="0" tabpos="2">
+		<Cursor position="2551" topLine="13" />
+	</File>
+	<File name="Enemy.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="4013" topLine="93" />
+	</File>
+	<File name="Enemy.h" open="0" top="0" tabpos="0">
+		<Cursor position="635" topLine="0" />
+	</File>
+	<File name="Engine.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="3561" topLine="83" />
+	</File>
+	<File name="Engine.h" open="0" top="0" tabpos="9">
+		<Cursor position="4723" topLine="95" />
+	</File>
+	<File name="Environment.cpp" open="0" top="0" tabpos="20">
+		<Cursor position="2109" topLine="0" />
+	</File>
+	<File name="Environment.h" open="0" top="0" tabpos="2">
+		<Cursor position="1691" topLine="0" />
+	</File>
+	<File name="Font.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="2093" topLine="0" />
+	</File>
+	<File name="Font.h" open="0" top="0" tabpos="12">
+		<Cursor position="2002" topLine="0" />
+	</File>
+	<File name="FontFactory.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="131" topLine="0" />
+	</File>
+	<File name="FontFactory.h" open="0" top="0" tabpos="0">
+		<Cursor position="83" topLine="0" />
+	</File>
+	<File name="Gravity.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="1945" topLine="7" />
+	</File>
+	<File name="Gravity.h" open="0" top="0" tabpos="0">
+		<Cursor position="1851" topLine="0" />
+	</File>
+	<File name="Item.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="231" topLine="0" />
+	</File>
+	<File name="Item.h" open="0" top="0" tabpos="0">
+		<Cursor position="262" topLine="0" />
+	</File>
+	<File name="Localizer.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="2290" topLine="2" />
+	</File>
+	<File name="Localizer.h" open="0" top="0" tabpos="8">
+		<Cursor position="2079" topLine="0" />
+	</File>
+	<File name="Main.cpp" open="0" top="0" tabpos="9">
+		<Cursor position="1910" topLine="0" />
+	</File>
+	<File name="Map.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="9827" topLine="255" />
+	</File>
+	<File name="Map.h" open="0" top="0" tabpos="0">
+		<Cursor position="4381" topLine="93" />
+	</File>
+	<File name="Menu.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="2197" topLine="37" />
+	</File>
+	<File name="Menu.h" open="0" top="0" tabpos="1">
+		<Cursor position="2381" topLine="11" />
+	</File>
+	<File name="Object.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="21" topLine="0" />
+	</File>
+	<File name="Object.h" open="0" top="0" tabpos="0">
+		<Cursor position="157" topLine="0" />
+	</File>
+	<File name="Objects.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1507" topLine="0" />
+	</File>
+	<File name="Objects.h" open="0" top="0" tabpos="0">
+		<Cursor position="1542" topLine="0" />
+	</File>
+	<File name="Particles.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="2540" topLine="15" />
+	</File>
+	<File name="Particles.h" open="0" top="0" tabpos="0">
+		<Cursor position="3421" topLine="47" />
+	</File>
+	<File name="SDLHeaders.h" open="0" top="0" tabpos="2">
+		<Cursor position="1197" topLine="0" />
+	</File>
+	<File name="ScoreTable.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="4202" topLine="91" />
+	</File>
+	<File name="ScoreTable.h" open="0" top="0" tabpos="18">
+		<Cursor position="2202" topLine="10" />
+	</File>
+	<File name="Screen.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="1548" topLine="0" />
+	</File>
+	<File name="Screen.h" open="0" top="0" tabpos="0">
+		<Cursor position="1733" topLine="0" />
+	</File>
+	<File name="SlideShow.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="2505" topLine="16" />
+	</File>
+	<File name="SlideShow.h" open="0" top="0" tabpos="4">
+		<Cursor position="1662" topLine="0" />
+	</File>
+	<File name="Sound.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="2714" topLine="26" />
+	</File>
+	<File name="Sound.h" open="0" top="0" tabpos="6">
+		<Cursor position="2226" topLine="7" />
+	</File>
+	<File name="Sprite.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2398" topLine="0" />
+	</File>
+	<File name="Sprite.h" open="0" top="0" tabpos="0">
+		<Cursor position="2895" topLine="27" />
+	</File>
+	<File name="SpriteText.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="740" topLine="27" />
+	</File>
+	<File name="SpriteText.h" open="0" top="0" tabpos="5">
+		<Cursor position="624" topLine="0" />
+	</File>
+	<File name="TextureManager.cpp" open="0" top="0" tabpos="1">
+		<Cursor position="3938" topLine="63" />
+	</File>
+	<File name="TextureManager.h" open="0" top="0" tabpos="2">
+		<Cursor position="2256" topLine="4" />
+	</File>
+	<File name="Timer.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1593" topLine="0" />
+	</File>
+	<File name="Timer.h" open="1" top="0" tabpos="3">
+		<Cursor position="1677" topLine="10" />
+	</File>
+	<File name="TimerFactory.cpp" open="0" top="0" tabpos="2">
+		<Cursor position="714" topLine="0" />
+	</File>
+	<File name="TimerFactory.h" open="0" top="0" tabpos="1">
+		<Cursor position="159" topLine="0" />
+	</File>
+	<File name="Timers.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="1506" topLine="0" />
+	</File>
+	<File name="Timers.h" open="1" top="1" tabpos="4">
+		<Cursor position="1631" topLine="0" />
+	</File>
+	<File name="Zelvik.cpp" open="0" top="0" tabpos="8">
+		<Cursor position="6065" topLine="176" />
+	</File>
+	<File name="Zelvik.h" open="0" top="0" tabpos="3">
+		<Cursor position="4587" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
